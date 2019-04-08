@@ -4,9 +4,7 @@ Koa implementation socket. IO demo online debugging
 
 ## Online Debug
 
-```
-Onlinde Debug: http://socket-io-koa-demo.crazylaw.cn
-```
+- [socket-io-koa-demo-Onlinde-Debug](http://socket-io-koa-demo.crazylaw.cn)
 
 ## Usage-1
 
